@@ -1,2 +1,2 @@
 # herokuDemo_confMatx
-This is basic Heroku app that creates an interactive confusion matrix
+This is a basic Heroku app that creates an interactive confusion matrix
